@@ -27,11 +27,12 @@ After spending some time playing i shower, get ready for next day and get to bed
 ## This is a list:
 - one
 - two
-3. 3
-4. 4
-5. 5
-[ ] 6
-[x] 7
+This is an ordered list
+1. list
+2. two
+this is a to do list
+[ ] Play an instrument
+[x] Do ur work
  
 ###### This is a fictional scenario.
 ## Review
