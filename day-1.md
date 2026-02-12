@@ -33,11 +33,19 @@ This is an ordered list
 this is a to do list
 - [ ] Play an instrument
 - [x] Do ur work
+##URL
+![vector](https://img.freepik.com/vector-gratis/vector-degradado-logotipo-colorido-pajaro_343694-1365.jpg)
 
 ## Pasting code
 This is a js code
 ```js
 let var=1;
 ```
+
+## vector image
+
+<img alt="lorem" src="https://img.freepik.com/vector-gratis/vector-degradado-logotipo-colorido-pajaro_343694-1365.jpg" width="200">
+
+
 ###### This is a fictional scenario.
 ## Review
