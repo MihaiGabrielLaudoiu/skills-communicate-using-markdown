@@ -24,5 +24,14 @@ From `20:30 PM` to `21:30 PM` i play video games
 ## End of the day
 After spending some time playing i shower, get ready for next day and get to bed i ussually read 10 pages of a book and go to sleep beetwen `22:30 PM` and `23:30 PM`.
 
+## This is a list:
+- one
+- two
+3. 3
+4. 4
+5. 5
+[ ] 6
+[x] 7
+ 
 ###### This is a fictional scenario.
 ## Review
