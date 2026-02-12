@@ -33,6 +33,11 @@ This is an ordered list
 this is a to do list
 - [ ] Play an instrument
 - [x] Do ur work
- 
+
+## Pasting code
+This is a js code
+```js
+let var=1;
+```
 ###### This is a fictional scenario.
 ## Review
