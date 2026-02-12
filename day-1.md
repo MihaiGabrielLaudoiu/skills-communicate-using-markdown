@@ -31,8 +31,8 @@ This is an ordered list
 1. list
 2. two
 this is a to do list
-[ ] Play an instrument
-[x] Do ur work
+- [ ] Play an instrument
+- [x] Do ur work
  
 ###### This is a fictional scenario.
 ## Review
